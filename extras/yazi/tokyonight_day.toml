@@ -9,8 +9,8 @@ hovered         = { bg = "#c4c8da" }
 preview_hovered = { bg = "#c4c8da" }
 
 # Find
-find_keyword  = { fg = "#d0d5e3", bg = "#b15c00", bold = true }
-find_position = { fg = "#07879d", bg = "#cbd9e0", bold = true }
+find_keyword  = { fg = "#ebeff9", bg = "#b15c00", bold = true }
+find_position = { fg = "#07879d", bg = "#e6f3f5", bold = true }
 
 # Marker
 marker_copied   = { fg = "#387068", bg = "#387068" }
@@ -20,7 +20,7 @@ marker_selected = { fg = "#2e7de9", bg = "#2e7de9" }
 
 # Tab
 tab_active   = { fg = "#3760bf", bg = "#c4c8da" }
-tab_inactive = { fg = "#a8aecb", bg = "#e1e2e7" }
+tab_inactive = { fg = "#a8aecb", bg = "#ffffff" }
 tab_width    = 1
 
 # Count
@@ -29,7 +29,7 @@ count_cut      = { fg = "#3760bf", bg = "#c64343" }
 count_selected = { fg = "#3760bf", bg = "#7890dd" }
 # Border
 border_symbol = "│"
-border_style  = { fg = "#4094a3" }
+border_style  = { fg = "#4699a8" }
 
 [status]
 separator_open  = ""
@@ -37,13 +37,13 @@ separator_close = ""
 separator_style = { fg = "#a8aecb", bg = "#a8aecb" }
 
 # Mode
-mode_normal = { fg = "#d0d5e3", bg = "#2e7de9", bold = true }
-mode_select = { fg = "#d0d5e3", bg = "#9854f1", bold = true }
-mode_unset  = { fg = "#d0d5e3", bg = "#7847bd", bold = true }
+mode_normal = { fg = "#ebeff9", bg = "#2e7de9", bold = true }
+mode_select = { fg = "#ebeff9", bg = "#9854f1", bold = true }
+mode_unset  = { fg = "#ebeff9", bg = "#7847bd", bold = true }
 
 # Progress
 progress_label  = { fg = "#6172b0", bold = true }
-progress_normal = { fg = "#e1e2e7" }
+progress_normal = { fg = "#ffffff" }
 progress_error  = { fg = "#f52a65" }
 
 # Permissions
@@ -54,8 +54,8 @@ permissions_x = { fg = "#587539" }
 permissions_s = { fg = "#a1a6c5" }
 
 [select]
-border   = { fg = "#4094a3" }
-active   = { fg = "#3760bf",  bg = "#b7c1e3" }
+border   = { fg = "#4699a8" }
+active   = { fg = "#3760bf",  bg = "#c9d3f1" }
 inactive = { fg = "#3760bf" }
 
 # Input
@@ -63,24 +63,24 @@ inactive = { fg = "#3760bf" }
 border   = { fg = "#07879d" }
 title    = {}
 value    = { fg = "#7847bd" }
-selected = { bg = "#b7c1e3" }
+selected = { bg = "#c9d3f1" }
 
 # Completion
 [completion]
 border   = { fg = "#07879d" }
-active   = { fg = "#3760bf", bg = "#b7c1e3" }
+active   = { fg = "#3760bf", bg = "#c9d3f1" }
 inactive = { fg = "#3760bf" }
 
 # Tasks
 [tasks]
-border  = { fg = "#4094a3" }
+border  = { fg = "#4699a8" }
 title   = {}
-hovered = { fg = "#3760bf", bg="#b7c1e3" }
+hovered = { fg = "#3760bf", bg="#c9d3f1" }
 
 # Which
 [which]
 cols = 3
-mask            = { bg = "#d0d5e3" }
+mask            = { bg = "#ebeff9" }
 cand            = { fg = "#007197" }
 rest            = { fg = "#2e7de9" }
 desc            = { fg = "#9854f1" }
@@ -97,8 +97,8 @@ title_error = { fg = "#f52a65" }
 [help]
 on      = { fg = "#587539" }
 run     = { fg = "#9854f1" }
-hovered = { bg = "#b7c1e3" }
-footer  = { fg = "#3760bf", bg = "#e1e2e7" }
+hovered = { bg = "#c9d3f1" }
+footer  = { fg = "#3760bf", bg = "#ffffff" }
 
 [filetype]
 

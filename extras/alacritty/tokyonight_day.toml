@@ -6,16 +6,16 @@
 
 # Default colors
 [colors.primary]
-background = '#e1e2e7'
+background = '#ffffff'
 foreground = '#3760bf'
 
 #[colors.cursor]
 #cursor = '#3760bf'
-#text = '#e1e2e7'
+#text = '#ffffff'
 
 # Normal colors
 [colors.normal]
-black = '#b4b5b9'
+black = '#cccccc'
 red = '#f52a65'
 green = '#587539'
 yellow = '#8c6c3e'

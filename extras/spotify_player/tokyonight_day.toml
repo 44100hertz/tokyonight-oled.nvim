@@ -1,7 +1,7 @@
 [[themes]]
 name = "Tokyo Night Day"
 [themes.palette]
-background = "#d0d5e3"
+background = "#ebeff9"
 foreground = "#6172b0"
 black = "#a1a6c5"
 red = "#f52a65"
@@ -11,7 +11,7 @@ blue = "#2e7de9"
 magenta = "#9854f1"
 cyan = "#007197"
 white = "${white}"
-bright_black = "#e1e2e7"
+bright_black = "#ffffff"
 bright_red = "#c64343"
 bright_green = "#387068"
 bright_yellow = "#b15c00"

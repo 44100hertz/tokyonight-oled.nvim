@@ -2,7 +2,7 @@ style:
   name: tokyonight_day
   body:
     fgColor: '#3760bf'
-    bgColor: '#d0d5e3'
+    bgColor: '#ebeff9'
     secondaryTextColor: '#6172b0'
     tertiaryTextColor: '${fg_visual}'
     borderColor: '#a8aecb'
@@ -24,13 +24,13 @@ style:
     categoryFgColor: '#006a83'
   dialog:
     fgColor: '#188092'
-    bgColor: '#b4b5b9'
-    contrastBgColor: '#e1e2e7'
+    bgColor: '#cccccc'
+    contrastBgColor: '#ffffff'
     attentionBgColor: '#c64343'
-    buttonFgColor: '#b4b5b9'
+    buttonFgColor: '#cccccc'
     buttonBgColor: '#c4c8da'
-    buttonFocusFgColor: '#b4b5b9'
+    buttonFocusFgColor: '#cccccc'
     buttonFocusBgColor: '#2e7de9'
     labelFgColor: '#8c6c3e'
-    fieldFgColor: '#b4b5b9'
+    fieldFgColor: '#cccccc'
     fieldBgColor: '#92a6d5'

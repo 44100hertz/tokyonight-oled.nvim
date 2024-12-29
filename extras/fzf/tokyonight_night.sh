@@ -4,9 +4,9 @@ export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS \
   --ansi \
   --layout=reverse \
   --border=none
-  --color=bg+:#283457 \
+  --color=bg+:#182440 \
   --color=bg:#16161e \
-  --color=border:#27a1b9 \
+  --color=border:#229cb2 \
   --color=fg:#c0caf5 \
   --color=gutter:#16161e \
   --color=header:#ff9e64 \
@@ -17,7 +17,7 @@ export FZF_DEFAULT_OPTS="$FZF_DEFAULT_OPTS \
   --color=pointer:#ff007c \
   --color=prompt:#2ac3de \
   --color=query:#c0caf5:regular \
-  --color=scrollbar:#27a1b9 \
+  --color=scrollbar:#229cb2 \
   --color=separator:#ff9e64 \
   --color=spinner:#ff007c \
 "
